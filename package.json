@@ -1,0 +1,19 @@
+{
+  "name": "orangehrmcypresstesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luE11/OrangeHRMCypressTesting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luE11/OrangeHRMCypressTesting/issues"
+  },
+  "homepage": "https://github.com/luE11/OrangeHRMCypressTesting#readme"
+}
