@@ -1,0 +1,14 @@
+{
+    "existing_user" : {
+        "username": "jhaey",
+        "user_role": "Admin",
+        "employee": "Lisa Andrews",
+        "status": "Disabled"
+    },
+    "unexisting_user" : {
+        "username": "Lola la bandida",
+        "user_role": "ESS",
+        "employee": "Lisa Andrews",
+        "status": "Enabled"
+    }
+}
