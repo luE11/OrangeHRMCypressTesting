@@ -1,0 +1,10 @@
+{
+    "existing_user" : {
+        "username": "Admin",
+        "password": "admin123"
+    },
+    "unexisting_user" : {
+        "username": "Uptc",
+        "password": "cheveres"
+    }
+}
