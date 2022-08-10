@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/luE11/OrangeHRMCypressTesting/issues"
   },
-  "homepage": "https://github.com/luE11/OrangeHRMCypressTesting#readme"
+  "homepage": "https://github.com/luE11/OrangeHRMCypressTesting#readme",
+  "dependencies": {
+    "cypress": "^10.4.0"
+  }
 }
