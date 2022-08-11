@@ -1,0 +1,16 @@
+{
+    "new_user_admin": {
+        "username": "Admin",
+        "user_role": "Admin",
+        "employee": "Lisa Andrews",
+        "status": "Enabled",
+        "password": "admin123"
+    },
+    "new_user_no_admin": {
+        "username": "Pabloperez",
+        "user_role": "ESS",
+        "employee": "Lisa Andrews",
+        "status": "Enabled",
+        "password": "Pab1234."
+    }
+}
