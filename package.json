@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/luE11/OrangeHRMCypressTesting#readme",
   "dependencies": {
-    "cypress": "^10.4.0"
+    "assert": "^2.0.0",
+    "buffer": "^6.0.3",
+    "cypress": "^10.4.0",
+    "node-fetch": "^3.2.10"
   }
 }
